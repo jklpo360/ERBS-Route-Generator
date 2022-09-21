@@ -1,0 +1,80 @@
+     * 'a': Fountain Pen
+     * 'b': Pickaxe
+     * 'c': Branch
+     * 'd': Stone
+     * 'e': Glass Bottle
+     * 'f': Chalk
+     * 'g': Flower
+     * 'h': Nail
+     * 'i': Leather
+     * 'j': Turtle Shell
+     * 'k': Rubber
+     * 'l': Scrap Metal
+     * 'm': Lighter
+     * 'n': Laser Pointer
+     * 'o': Stallion Medal
+     * 'p': Battery
+     * 'q': Alcohol
+     * 'r': Oil
+     * 's': Cloth
+     * 't': Gemstone
+     * 'u': Glue
+     * 'v': Paper
+     * 'w': Iron Ore
+     * 'x': Can
+     * 'y': Gunpowder
+     * 'z': Piano Wire
+     * '1': Feather
+     * '2': Bamboo
+     * '3': Carbonated Water
+     * '4': Kitchen Knife
+     * '5': Short Spear
+     * '6': Hatchet
+     * '7': Fan
+     * '8': Hammer
+     * '9': Playing Cards
+     * '0': Hairband
+     * 'A': Hat
+     * 'B': Scissors
+     * 'C': Bike Helmet
+     * 'D': Steel Chain
+     * 'E': Mousetrap
+     * 'F': Cross
+     * 'G': Bandage
+     * 'H': Fabric Armor
+     * 'I': Wetsuit
+     * 'J': Windbreaker
+     * 'K': Holy Grail
+     * 'L': Razor
+     * 'M': Monk's Robe
+     * 'N': Ribbon
+     * 'O': Short Rod
+     * 'P': Ice
+     * 'Q': Cotton Gloves
+     * 'R': Bracelet
+     * 'S': Needle
+     * 'T': Watch
+     * 'U': Oriental Herb
+     * 'V': Running Shoes
+     * 'W': Iron Ball
+     * 'X': Slippers
+     * 'Y': Tights
+     * 'Z': Box
+     * '+': Rusty Sword
+     * '-': Walther PPK
+     * '!': Short Crossbow
+     * '_': Fedorova
+     * '.': Binoculars
+     * '@': Buddhist Scripture
+     * ':': Snare
+     * '#': Ramen
+     * '$': Coffee
+     * '%': Egg
+     * '*': Lemon
+     * '?': Chocolate
+     * '/': Whiskey
+     * '`': Garlic
+     * '~': Honey
+     * '|': Guitar
+     * '>': Milk
+     */

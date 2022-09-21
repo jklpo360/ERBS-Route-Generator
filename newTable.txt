@@ -1,0 +1,120 @@
+/**
+     * Character mappings for component items: (79 in total)
+     * 
+     *  1    'a': Fountain Pen
+     *  2    'b': Pickaxe
+     *  3    'c': Branch
+     *  4    'd': Stone
+     *  5    'e': Glass Bottle
+     *  6    'f': Chalk
+     *  7    'g': Flower
+     *  8    'h': Nail
+     *  9    'i': Leather
+     * 10    'j': Turtle Shell
+     * 11    'k': Rubber
+     * 12    'l': Scrap Metal
+     * 13    'm': Lighter
+     * 14    'n': Laser Pointer
+     * 15    'o': Stallion Medal
+     * 16    'p': Battery
+     * 17    'q': Alcohol
+     * 18    'r': Oil
+     * 19    's': Cloth
+     * 20    't': Gemstone
+     * 21    'u': Glue
+     * 22    'v': Paper
+     * 23    'w': Iron Ore
+     * 24    'x': Can
+     * 25    'y': Gunpowder
+     * 26    'z': Piano Wire
+     * 27    '1': Feather
+     * 28    '2': Bamboo
+     * 29    '3': Carbonated Water
+     * 30    '4': Kitchen Knife
+     * 31    '5': Short Spear
+     * 32    '6': Hatchet
+     * 33    '7': Fan
+     * 34    '8': Hammer
+     * 35    '9': Playing Cards
+     * 36    '0': Hairband
+     * 37    'A': Hat
+     * 38    'B': Scissors
+     * 39    'C': Bike Helmet
+     * 40    'D': Steel Chain
+     * 41    'E': Mousetrap
+     * 42    'F': Cross
+     * 43    'G': Bandage
+     * 44    'H': Fabric Armor
+     * 45    (char)45: Wetsuit
+     * 46    (char)46: Windbreaker
+     * 47    (char)47: Holy Grail
+     * 48    (char)48: Razor
+     * 49    (char)49: Monk's Robe
+     * 50    (char)50: Ribbon
+     * 51    (char)51: Short Rod
+     * 52    (char)52: Ice
+     * 53    (char)53: Cotton Gloves
+     * 54    (char)54: Bracelet
+     * 55    (char)55: Needle
+     * 56    (char)56: Watch
+     * 57    (char)57: Oriental Herb
+     * 58    (char)58: Running Shoes
+     * 59    (char)59: Iron Ball
+     * 60    (char)60: Slippers
+     * 61    (char)61: Tights
+     * 62    (char)62: Box
+     * 63    (char)63: Rusty Sword
+     * 64    (char)64: Walther PPK
+     * 65    (char)65: Short Crossbow
+     * 66    (char)66: Fedorova
+     * 67    (char)67: Binoculars
+     * 68    (char)68: Buddhist Scripture
+     * 69    (char)69: Snare
+     * 70    (char)70: Ramen
+     * 71    (char)71: Coffee
+     * 72    (char)72: Egg
+     * 73    (char)73: Lemon
+     * 74    (char)74: Chocolate
+     * 75    (char)75: Whiskey
+     * 76    (char)76: Garlic
+     * 77    (char)77: Honey
+     * 78    (char)77: Guitar
+     * 79    (char)77: Milk
+     * 80    '^':
+     * 81    '&':
+     * 82    '<':
+     */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+0
+1
+2
+3
+4
+5
+6
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
