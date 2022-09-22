@@ -47,7 +47,8 @@ public class Setup {
         // System.out.println(l.name + " " + l.stats.length + " " + l.specials.length);
         // }
 
-        Item[] accessories = new Item[] { Constants.ACCESSORIES[3], Constants.ACCESSORIES[8],
+        Item[] accessories = new Item[] { Constants.ACCESSORIES[3],
+                Constants.ACCESSORIES[8],
                 Constants.ACCESSORIES[12] };
 
         System.out.println("****************************************************");
@@ -78,10 +79,11 @@ public class Setup {
         // Build cur = new Build(spears[0], heads[2], chests[13], arms[10], legs[3],
         // accessories[3]);
         // System.out.println(System.getProperty("user.dir") + "\\BuildList.txt");
+
         // FileOutputStream out;
         // ObjectOutputStream objOut;
         // try {
-        // out = new FileOutputStream("DronedRoutedBuildList.txt");
+        // out = new FileOutputStream("FiveRouteBuildPaths.ver.67.b.txt");
         // objOut = new ObjectOutputStream(out);
         // } catch (FileNotFoundException e) {
         // e.printStackTrace();
@@ -94,6 +96,7 @@ public class Setup {
         // out = null;
         // objOut = null;
         // }
+
         // for (Item s : spears) {
         Item s = Constants.SPEARS[0];
         for (Item h : heads) {
@@ -108,16 +111,16 @@ public class Setup {
 
                             Router r = new Router(cur);
 
-                            Route[] paths = r.makeNZonePaths(4);
+                            Route[] paths = r.makeNZonePaths(5);
 
                             paths = Constants.removeDupeZones(paths);
                             boolean done = false;
                             for (Route route : paths) {
-                                if (r.validRoute(route) < 2) {
+                                if (r.validRoute(route) < 1) {
                                     if (!done) {
                                         // try {
                                         // objOut.writeObject(
-                                        // "(s: " + cur.spear.name + ", h: " + cur.head.name + ", c: "
+                                        // "\n(s: " + cur.spear.name + ", h: " + cur.head.name + ", c: "
                                         // +
                                         // cur.chest.name + ", a: "
                                         // + cur.arm.name + ", l: " + cur.leg.name + ", y: "
@@ -130,7 +133,7 @@ public class Setup {
                                         // }
 
                                         System.out
-                                                .println("(s: " + cur.spear.name + ", h: " + cur.head.name + ", c: "
+                                                .println("\n(s: " + cur.spear.name + ", h: " + cur.head.name + ", c: "
                                                         +
                                                         cur.chest.name + ", a: "
                                                         + cur.arm.name + ", l: " + cur.leg.name + ", y: "
@@ -147,19 +150,26 @@ public class Setup {
                                         // e.printStackTrace();
                                         // System.out.println(e.getCause());
                                         // }
+
                                         System.out.print(z.name + ", ");
                                     }
+
+                                    // try {
+                                    // objOut.writeObject("\n");
+                                    // } catch (IOException e) {
+                                    // e.printStackTrace();
+                                    // System.out.println(e.getCause());
+                                    // }
 
                                     System.out.print("\n");
                                 }
                             }
-                            System.out.print("\n");
                         }
                     }
                 }
             }
-            // }
         }
+        // }
 
         // Build cur2 = new Build(spears[0], heads[2], chests[8], arms[10], legs[3],
         // accessories[8]);

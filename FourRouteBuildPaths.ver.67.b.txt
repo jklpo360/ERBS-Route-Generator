@@ -1,0 +1,84 @@
+(s: Eighteen Foot Spear, h: Crystal Tiara, c: Battle Suit, a: Plasma Arc, l: Feather Boots, y: Laced Quiver,len: 22)
+Dock, Beach, Uptown, Cemetery,
+Dock, Beach, Uptown, Forest,
+Dock, Uptown, Alley, Cemetery,
+Dock, Uptown, Alley, Forest,
+
+(s: Eighteen Foot Spear, h: Crystal Tiara, c: Battle Suit, a: Plasma Arc, l: Feather Boots, y: Music Box,len: 22)
+Dock, Beach, Uptown, Cemetery,
+Dock, Beach, Uptown, Forest,
+Dock, Uptown, Alley, Cemetery,
+Dock, Uptown, Alley, Forest,
+
+(s: Eighteen Foot Spear, h: Crystal Tiara, c: Battle Suit, a: Plasma Arc, l: Bucephalus, y: Laced Quiver,len: 22)
+Dock, Beach, Uptown, Forest, 
+Dock, Uptown, Alley, Forest,
+
+(s: Eighteen Foot Spear, h: Crystal Tiara, c: Battle Suit, a: Plasma Arc, l: Bucephalus, y: Music Box,len: 22)
+Dock, Beach, Uptown, Forest,
+Dock, Uptown, Alley, Forest,
+
+(s: Eighteen Foot Spear, h: Crystal Tiara, c: Battle Suit, a: Radar, l: Feather Boots, y: Laced Quiver,len: 22)
+Dock, Uptown, Alley, Temple, 
+Dock, Uptown, Alley, Cemetery,
+Dock, Uptown, Alley, Forest,
+
+(s: Eighteen Foot Spear, h: Crystal Tiara, c: Battle Suit, a: Radar, l: Feather Boots, y: Music Box,len: 22)
+Dock, Uptown, Alley, Temple,
+Dock, Uptown, Alley, Cemetery,
+Dock, Uptown, Alley, Forest,
+
+(s: Eighteen Foot Spear, h: Crystal Tiara, c: Battle Suit, a: Radar, l: Feather Boots, y: Pile Bunker,len: 22)
+Alley, Hotel, Avenue, Temple,
+Alley, Hotel, Avenue, Cemetery,
+Alley, Hotel, Avenue, Forest,
+
+(s: Eighteen Foot Spear, h: Crystal Tiara, c: Battle Suit, a: Radar, l: Bucephalus, y: Laced Quiver,len: 21)
+Dock, Uptown, Alley, Forest,
+
+(s: Eighteen Foot Spear, h: Crystal Tiara, c: Battle Suit, a: Radar, l: Bucephalus, y: Music Box,len: 21)
+Dock, Uptown, Alley, Forest,
+
+(s: Eighteen Foot Spear, h: Crystal Tiara, c: Battle Suit, a: Radar, l: Bucephalus, y: Pile Bunker,len: 21)
+Alley, Hotel, Avenue, Temple,
+Alley, Hotel, Avenue, Cemetery,
+Alley, Hotel, Avenue, Forest,
+
+(s: Eighteen Foot Spear, h: Crystal Tiara, c: Battle Suit, a: Radar, l: White Rhinos, y: Pile Bunker,len: 22)
+Alley, Hotel, Avenue, Temple,
+Alley, Hotel, Avenue, Cemetery,
+Alley, Hotel, Avenue, Forest,
+
+(s: Eighteen Foot Spear, h: Crystal Tiara, c: Tuxedo, a: Radar, l: Feather Boots, y: Laced Quiver,len: 21)
+Dock, Uptown, Alley, Temple, 
+Dock, Uptown, Hospital, Temple,
+
+(s: Eighteen Foot Spear, h: Crystal Tiara, c: Tuxedo, a: Radar, l: Feather Boots, y: Music Box,len: 22)
+Dock, Uptown, Alley, Temple,
+Dock, Uptown, Hospital, Temple,
+
+(s: Eighteen Foot Spear, h: Crystal Tiara, c: Tuxedo, a: Radar, l: Feather Boots, y: Pile Bunker,len: 22)
+Uptown, Avenue, Hospital, Temple,
+
+(s: Eighteen Foot Spear, h: Crystal Tiara, c: Changpao, a: Plasma Arc, l: Bucephalus, y: Pile Bunker,len: 23)
+Beach, Avenue, Hospital, Cemetery, 
+Beach, Avenue, Hospital, Forest,
+
+(s: Eighteen Foot Spear, h: Crystal Tiara, c: Changpao, a: Radar, l: Feather Boots, y: Laced Quiver,len: 22)
+Dock, Uptown, Hospital, Temple,
+
+(s: Eighteen Foot Spear, h: Crystal Tiara, c: Changpao, a: Radar, l: Feather Boots, y: Music Box,len: 23)
+Dock, Uptown, Hospital, Temple,
+
+(s: Eighteen Foot Spear, h: Crystal Tiara, c: Changpao, a: Radar, l: Feather Boots, y: Pile Bunker,len: 23)
+Uptown, Avenue, Hospital, Temple,
+
+(s: Eighteen Foot Spear, h: Crystal Tiara, c: Changpao, a: Radar, l: Bucephalus, y: Pile Bunker,len: 22)
+Beach, Avenue, Hospital, Cemetery,
+Beach, Avenue, Hospital, Forest, 
+
+(s: Eighteen Foot Spear, h: Tactical OPS Helmet, c: Battle Suit, a: Plasma Arc, l: Bucephalus, y: Laced Quiver,len: 23)
+Dock, Beach, Forest, School, 
+
+(s: Eighteen Foot Spear, h: Tactical OPS Helmet, c: Battle Suit, a: Plasma Arc, l: Bucephalus, y: Music Box,len: 23)
+Dock, Beach, Forest, School,
