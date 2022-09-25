@@ -48,6 +48,10 @@ public class Item implements Serializable {
      * (char)020't': Trap Damage Reduction (10%)
      * (char)016'p': Primordial Hex
      * (char)002'b': Blessing: Calm Mind
+     * (char)030'w': 0.02 MS
+     * (char)031'x': 0.04 MS
+     * (char)032'y': 0.06 MS
+     * (char)033'z': 0.08 MS
      * 
      */
 
