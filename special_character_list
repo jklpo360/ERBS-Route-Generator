@@ -1,0 +1,66 @@
+/**
+* Adjustments for item stats:
+* 
+* Crit_Chance %
+* Crit_Damage %
+* MS /100
+* CDR %
+* Tenacity %
+* HP *10
+* HP regen * 10 - %
+* SP *10
+* %SP regen * 10 - %
+* 
+*/
+
+/**
+* Character mappings for special traits:
+* 
+* (char)018'r': Reflection (damage and heal cut)
+* (char)003'c': 40% heal cut
+* (char)023'k': Smooth Walker
+* (char)019's': Swift Strides
+* (char)005'e': Electric Shock
+* (char)012'l': lifeline: shield and skill amp boost
+* (char)010'd': +5% defense from basic attacks
+* (char)009'i': CDR cap increase (5%)
+* (char)045'I': CDR cap increase (10%)
+* (char)008'h': Healing Power increase (15%)
+* (char)020't': Trap Damage Reduction (10%)
+* (char)016'p': Primordial Hex
+* (char)002'b': Blessing: Calm Mind
+* (char)030'w': 0.02 MS
+* (char)031'x': 0.04 MS
+* (char)032'y': 0.06 MS
+* (char)033'z': 0.08 MS
+* 
+*/
+VALUES (, 
+			'', 
+			00.0,  --Attack Power
+			00.0,  --Attack Speed
+			00.0,  --Critical Strike Chance
+			00.0,  --Critical Strike Damage
+			00.0,  --Skill Amplification
+			00.0,  --Defense
+			00.0,  --Movement Speed
+			00.0,  --Cooldown Reduction
+			00.0,  --Basic Attack Amplification
+			00.0,  --Vision Range
+			00.0,  --Critical Strike Damage Reduction
+			00.0,  --Basic Attack Damage Reduction
+			00.0,  --Skill Damage Reduction
+			00.0,  --Armor Penetration
+			00.0,  --Max HP
+			00.0,  --HP Regeneration (percentage)
+			00.0,  --Attack Range
+			00.0,  --Tenacity
+			00.0,  --Omnisyphon
+			00.0,  --Lifesteal
+			00.0,  --Max SP
+			00.0,  --SP Regeneration (flat)
+			00.0,  --SP Regeneration (percentage)
+			00.0,  --Attack Power Per Level
+			00.0,  --Skill Amplification Per Level
+			00.0,  --Max HP Per Level
+			'');  --specials
