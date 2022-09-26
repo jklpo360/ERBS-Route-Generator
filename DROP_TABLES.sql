@@ -1,4 +1,4 @@
-
+DROP TABLE "ZoneItems";
 DROP TABLE "Spears";
 DROP TABLE "Chests";
 DROP TABLE "Arms";
