@@ -6,7 +6,7 @@ INSERT INTO public."Arms"(
 			00.0,  --Attack Speed
 			00.0,  --Critical Strike Chance
 			00.0,  --Critical Strike Damage
-			40.0,  --Skill Amplification
+			37.0,  --Skill Amplification
 			13.0,  --Defense
 			00.0,  --Movement Speed
 			00.0,  --Cooldown Reduction
@@ -86,7 +86,7 @@ INSERT INTO public."Arms"(
 			00.0,  --Tenacity
 			00.0,  --Omnisyphon
 			00.0,  --Lifesteal
-			24.0,  --Max SP
+			30.0,  --Max SP
 			00.0,  --SP Regeneration (flat)
 			03.0,  --SP Regeneration (percentage)
 			00.0,  --Attack Power Per Level

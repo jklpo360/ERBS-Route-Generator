@@ -38,10 +38,10 @@ INSERT INTO public."Spears"(
 			00.0, --attack_speed
 			00.0, --critical_strike_chance              %
 			00.0, --critical_strike_damage
-			39.0, --skill amplification
+			42.0, --skill amplification
 			00.0, --defense
 			00.0, --movement speed                      /100
-			05.0, --cooldown reduction                  %
+			08.0, --cooldown reduction                  %
 			00.0, --basic attack amplification
 			00.0, --vision range
 			00.0, --critical strike reduction
@@ -98,13 +98,13 @@ INSERT INTO public."Spears"(
 	spear_id, spear_name, attack_power, attack_speed, critical_strike_chance, critical_strike_damage, skill_amplification, defense, movement_speed, cooldown_reduction, basic_attack_amplification, vision_range, critical_strike_damage_reduction, basic_attack_damage_reduction, skill_damage_reduction, armor_penetration, max_hp, hp_regeneration, attack_range, tenacity, omnisyphon, lifesteal, max_sp, flat_sp_regeneration, percent_sp_regeneration, attack_power_per_level, skill_amplification_per_level, hp_per_level, specials)
 	VALUES (4, 
 			'Dragon Guandao', 
-			98.0, --attack_power
+			95.0, --attack_power
 			00.0, --attack_speed
 			00.0, --critical_strike_chance              %
 			00.0, --critical_strike_damage
 			00.0, --skill amplification
 			00.0, --defense
-		   -05.0, --movement speed                      /100
+		    00.0, --movement speed                      /100
 			00.0, --cooldown reduction                  %
 			00.0, --basic attack amplification
 			00.0, --vision range
