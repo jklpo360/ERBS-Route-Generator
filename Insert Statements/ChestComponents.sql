@@ -1,4 +1,4 @@
-INSERT INTO public."ChestsComponents"(
+INSERT INTO public."ChestComponents"(
     chest_id, component_id)
     VALUES
     (1, 42),

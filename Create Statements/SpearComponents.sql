@@ -6,7 +6,6 @@ CREATE TABLE public."SpearComponents"
 (
     spear_id INT, 
     component_id INT
-    PRIMARY KEY (spear_id, component_id)
 )
 
 TABLESPACE pg_default;

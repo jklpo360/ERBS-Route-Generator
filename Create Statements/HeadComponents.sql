@@ -6,7 +6,6 @@ CREATE TABLE public."HeadComponents"
 (
     head_id INT, 
     component_id INT
-    PRIMARY KEY (head_id, component_id)
 )
 
 TABLESPACE pg_default;

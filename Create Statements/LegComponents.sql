@@ -6,7 +6,6 @@ CREATE TABLE public."LegComponents"
 (
     leg_id INT, 
     component_id INT
-    PRIMARY KEY (leg_id, component_id)
 )
 
 TABLESPACE pg_default;

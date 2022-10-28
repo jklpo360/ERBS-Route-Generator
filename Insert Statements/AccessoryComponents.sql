@@ -1,7 +1,7 @@
-INSERT INTO public."AccessoryComponents.sql"(
-    accessory_id, componnet_id)
+INSERT INTO public."AccessoryComponents"(
+    accessory_id, component_id)
     VALUES
-    (1, 33),
+	(1, 33),
     (1, 8),
     (1, 27),
     (2, 50),
